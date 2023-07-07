@@ -1,5 +1,11 @@
-# LFX-Hyperledger_progress-report
+# LFX-Hyperledger progress-report
 
+This repository contains the daily progress report for the LFX Mentorship Program for Hyperledger. The report is divided into two sections: 
+ - Daily Progress Report
+ - Blockchain Blog Series
+ - Weekly Progress Report
+ - Meeting Minutes/User Stories
+    
 # Blockchain Blog Series
 
 Welcome to the Blockchain Blog Series! This collection serves as a comprehensive resource for understanding blockchain technology, its applications, and its potential impact on various industries. This blog series is being created as part of the daily progress report for the LFX Mentorship Program for Hyperledger.
